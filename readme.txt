@@ -13,7 +13,7 @@ Admin Page URL:
 
 
 Superuser:
-	username : Saif
+	username : Admin
 	password : Admin#12345
 
 Normal Manager:
